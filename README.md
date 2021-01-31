@@ -1,2 +1,4 @@
 # passwordManager
-Mini-Project
+
+- Only works with localHost.
+- miniProject.
